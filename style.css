@@ -1,4 +1,12 @@
-html, body {
-  height: 100%;
-  width: 100%;
+p{
+
+  font-size: 22px;
+  color: #eb4034;
+}
+
+body{
+
+  background-color:lavenderblush;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
 }
